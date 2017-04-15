@@ -27,6 +27,7 @@ Note: Google VR SDK was not used in this project.
 
 ## Known Issues
 * This project will need to be opened in Unity 5.5.1
+* Sometimes the cube will spawn on the camera making it unclickable.
 
 ## Author
 Stephen Emery
