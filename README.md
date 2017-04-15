@@ -21,7 +21,9 @@ Note: Google VR SDK was not used in this project.
 * Click "Download" on
 [https://github.com/Mehequanna/UnityVR-HelloWorld](https://github.com/Mehequanna/UnityVR-HelloWorld)
 * Open Unity and choose open project (You will need to know the repo location)
-* Further Instructions to come.
+* On Mac, choose File -> Build Settings
+* In platform, choose the platform you have set up, either iOS or Android. Select "Switch Platform".
+* Choose "Build and Run" at the bottom right.
 
 ## Known Issues
 * This project will need to be opened in Unity 5.5.1
