@@ -21,7 +21,9 @@ Note: Google VR SDK was not used in this project.
 * Click "Download" on
 [https://github.com/Mehequanna/UnityVR-HelloWorld](https://github.com/Mehequanna/UnityVR-HelloWorld)
 * Open Unity and choose open project (You will need to know the repo location)
-* Further Instructions to come.
+* In Unity: Go to Project pane.
+* Click Assets -> UdacityVR -> Scenes
+* Double click "ModifiedGoogleDemoScene.unity"
 
 ## Known Issues
 * This project will need to be opened in Unity 5.5.1
